@@ -1,18 +1,11 @@
 <h1 align="center">Hello there! 👋 I'm Siwani Karna </h1>
-<h2 align="left"> A third-year student pursuing B.Tech in Computer Science and Engineering at Amrita Vishwa Vidyapeetham. I'm passionate about data science and aspire to become a proficient data scientist. This README serves as a brief introduction to who I am and the skills I bring to the table.
-</h2>
+<h3 align="left"> A third-year student pursuing B.Tech in Computer Science and Engineering at Amrita Vishwa Vidyapeetham. I'm passionate about data science and aspire to become a proficient data scientist. This README serves as a brief introduction to who I am and the skills I bring to the table.
+</h3>
 
-###
 
-<div align="center">
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=siwanikarna&show_icons=true&theme=gotham" alt="siwanikarna" /> <br>
-</div>
 
-###
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/374987f773148e46b1851b9e3bc4bf71b182562dd002620ef3e4263cb3997130/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3837352f312a7164415731546a434e353768316c6275757a766368672e676966">
 
-<img align="right" height="150" src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif" width="300" height="1500"  />
-
-###
 <h3>🛠️Languages and Tools</h3>
 
 <div align="left">
@@ -36,12 +29,18 @@
 ###
 <h3>🔗 Connect with me</h3>
 <div align="left">
-<a href="https://www.linkedin.com/in/siwani-karna-296050238/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
-<a href="https://instagram.com/siwani.k_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
+   <a href="siwanikarna20@gmail.com" target="blank"> <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a> <br>
+<a href="https://www.linkedin.com/in/siwani-karna-296050238/" target="blank">  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a><br>
+<a href="https://instagram.com/siwani.k_" target="blank">  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /></a><br>
+
+
 </div>
 
 ###
 
-<br clear="both">
+<div align="center">
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=siwanikarna&show_icons=true&theme=gotham" alt="siwanikarna" /> <br>
+</div>
 
-###
+<h4 align="center">Feel free to connect with me! I'm open to collaborations, discussions, and always eager to learn more.
+</h4>
