@@ -10,7 +10,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif" width="300" height="1500"  />
 
 ###
 <h3>🛠️Languages and Tools</h3>
